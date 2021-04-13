@@ -1,17 +1,17 @@
 markdown: kramdown
 
-title: Palmer Lab @ University of Maryland
+title: Braja Gopal Patra @ Weill Cornell Medicine
 
-url: '//palmerlab-umd.github.io'
-production_url: 'https://palmerlab-umd.github.io'
+url: '//brajagopalcse.github.io'
+production_url: 'https://brajagopalcse.github.io'
 
 permalink: "/news/:year-:month-:day-:title/"
 
 author:
-    name: Anna K.  
-    email: akottkam@terpmail.umd
-    github: akottkam
-    twitter: akottkamper
+    name: Braja Gopal Patra  
+    email: brajagopal.cse@gmail.com
+    github: brajagopalcse
+    twitter: bgp_tweet
     gravatar: 
 
 #comments:
